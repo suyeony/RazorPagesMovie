@@ -174,3 +174,10 @@ C:\Users\Suyeon Yang\Desktop\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages
 C:\Users\Suyeon Yang\Desktop\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
 C:\Users\Suyeon Yang\Desktop\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
 C:\Users\Suyeon Yang\Desktop\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
+C:\Users\Suyeon Yang\Desktop\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Suyeon Yang\Desktop\RazorPagesMovie\bin\Debug\netcoreapp3.1\RazorPagesMovie.StaticWebAssets.xml
+C:\Users\Suyeon Yang\Desktop\RazorPagesMovie\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Suyeon Yang\Desktop\RazorPagesMovie\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Suyeon Yang\Desktop\RazorPagesMovie\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Suyeon Yang\Desktop\RazorPagesMovie\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Suyeon Yang\Desktop\RazorPagesMovie\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
